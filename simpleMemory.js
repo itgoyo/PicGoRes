@@ -170,12 +170,12 @@ if (initCheck()) {
             animateSections: true
         },
         homeTopImg: [
-            "https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/bz.jpg.jpg"
+            "https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/bz.jpg"
         ],
         homeBannerText: "",
         homeBannerTextType: "jinrishici",
         essayTopImg: [
-            "https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/bz.jpg.jpg"
+            "https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/bz.jpg"
         ],
         essayCodeHighlightingType: 'cnblogs',
         essayCodeHighlighting: '',
